@@ -10,8 +10,5 @@ class Solution:
         if not ones1 or not ones2:
             return 0
 
-        # --- YOUR TURN: Vector Voting ---
-        # For every pair (r1, c1) in ones1 and (r2, c2) in ones2:
-        # What shift vector (dr, dc) aligns (r1, c1) onto (r2, c2)?
-        # Count the votes for each vector and return the maximum overlap!
-        pass
+        counts = Counter((r2 - r1, c2 - c1) for r1, c1 in ones1 for r2, c2 in ones2)
+        return max(counts.values()) if counts else 0
