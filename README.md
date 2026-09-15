@@ -1,6 +1,6 @@
 # Systems & Algorithmic Engineering Lab
 
-A repository dedicated to end-to-end Python & C++ engineering mastery, algorithmic problem-solving on **The Grand Quest (61 / 4,055 Solved — 14 Hards, 32 Mediums, 15 Easies)**, PyTorch generative transformer architectures, and low-level C++ memory systems.
+A repository dedicated to end-to-end Python & C++ engineering mastery, algorithmic problem-solving on **The Grand Quest (66 / 4,055 Solved — 15 Hards, 36 Mediums, 15 Easies | 14-Day Streak | Global Rank: ~2.5M)**, PyTorch generative transformer architectures, and low-level C++ memory systems.
 
 ---
 
@@ -18,6 +18,7 @@ A repository dedicated to end-to-end Python & C++ engineering mastery, algorithm
 │   ├── dynamic_programming/       # Distinct subsequences, regex matching, memoization
 │   ├── math_and_bits/             # Bit manipulation (<<), exponential division, math
 │   ├── daily/                     # Live daily challenges & contest drills
+│   ├── DSA_40_PATTERN_MASTER_SHEET.md # 40-pattern priority master tracking index
 │   ├── BIG_O_COMPLEXITY_ROADMAP.md# 7-module guide to mastering time & space complexity
 │   ├── CONTEST_PLAYBOOK.md        # Fast pattern recognition & constraint decoder
 │   └── 6_DAY_CONTEST_PREP_GOAL.md # Sprint schedule for Weekly Contest 519
