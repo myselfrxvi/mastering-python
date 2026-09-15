@@ -1,6 +1,6 @@
 # Systems & Algorithmic Engineering Lab
 
-A repository dedicated to end-to-end Python & C++ engineering mastery, algorithmic problem-solving on **The Grand Quest (66 / 4,055 Solved — 15 Hards, 36 Mediums, 15 Easies | 14-Day Streak | Global Rank: ~2.5M)**, PyTorch generative transformer architectures, and low-level C++ memory systems.
+A repository dedicated to end-to-end Python & C++ engineering mastery, algorithmic problem-solving on **The Grand Quest (68 / 4,055 Solved — 17 Hards, 36 Mediums, 15 Easies | 14-Day Streak | Global Rank: ~2.5M)**, PyTorch generative transformer architectures, and low-level C++ memory systems.
 
 ---
 
