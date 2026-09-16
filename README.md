@@ -1,6 +1,6 @@
 # Systems & Algorithmic Engineering Lab
 
-A repository dedicated to end-to-end Python & C++ engineering mastery, algorithmic problem-solving on **The Grand Quest (73 / 4,055 Solved — 18 Hards, 40 Mediums, 15 Easies | 15-Day Streak | Global Rank: ~2.5M)**, PyTorch generative transformer architectures, and low-level C++ memory systems.
+A repository dedicated to end-to-end Python engineering mastery, algorithmic problem-solving on **The Grand Quest (75 / 4,055 Solved — 18 Hards, 42 Mediums, 15 Easies | 15-Day Streak | Global Rank: ~2.5M)**, and PyTorch generative transformer architectures.
 
 ---
 
@@ -22,15 +22,6 @@ A repository dedicated to end-to-end Python & C++ engineering mastery, algorithm
 │   ├── BIG_O_COMPLEXITY_ROADMAP.md# 7-module guide to mastering time & space complexity
 │   ├── CONTEST_PLAYBOOK.md        # Fast pattern recognition & constraint decoder
 │   └── 6_DAY_CONTEST_PREP_GOAL.md # Sprint schedule for Weekly Contest 519
-│
-├── cpp/                           # Low-Level C++ Systems & Performance Programming
-│   ├── 01_hello.cpp               # C++ compiler setup & I/O streams
-│   ├── 02_types.cpp               # Static primitive sizing & type safety
-│   ├── 03_functions.cpp           # Call mechanics & function signatures
-│   ├── 04_vectors.cpp             # Dynamic array allocation (std::vector)
-│   ├── 05_twosum.cpp              # Fast O(N) hash map using std::unordered_map
-│   ├── 06_pointers_and_references.cpp # Memory addresses, pointers (*), references (&), zero-copy const &
-│   └── 07_stack_vs_heap.cpp       # Stack frames, manual new/delete, RAII smart pointers (std::unique_ptr)
 │
 └── python_fundamentals/           # Modern Python Engineering & AI Engine
     ├── ai_engine/                 # PyTorch causal transformer block from scratch, multi-head attention
@@ -57,18 +48,8 @@ A structured pursuit of conquering every single algorithmic challenge on LeetCod
 
 ---
 
-## C++ Systems & Performance Engineering
-
-Focused on writing zero-cost abstractions, understanding exact memory layouts, and eliminating unnecessary heap allocations.
-
-- **Zero-Copy Calling Conventions:** Passing by `const Type&` to bypass expensive memory copies.
-- **Memory Lifetime (Stack vs Heap):** Stack frame allocation vs heap allocations with `new`/`delete`.
-- **Modern RAII:** Safe dynamic resource management via `std::unique_ptr` without manual memory leaks.
-- **Tooling:** GCC 10.3.0 (TDM-GCC MinGW64) and Clang / LLVM 22.1.7.
-
----
-
 ## AI & Deep Learning Core (`python_fundamentals/ai_engine`)
 
 - **Custom Transformer Architecture:** Built from scratch in PyTorch implementing multi-head self-attention, causal masking, layer normalization, and feed-forward blocks.
 - **Streaming & Memory:** Token streaming pipelines, sliding window chat history, and structured Pydantic outputs.
+
