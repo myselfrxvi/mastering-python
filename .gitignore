@@ -6,7 +6,14 @@
 # Bytecode & CPython Caches
 # ---------------------------------------------------------------------
 __pycache__/
+**/__pycache__/
+**/__pycache__
 *.py[cod]
+**/*.py[cod]
+*.pyc
+**/*.pyc
+*.pyo
+**/*.pyo
 *$py.class
 *.so
 .Python
