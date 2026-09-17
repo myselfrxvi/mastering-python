@@ -8,14 +8,14 @@
 
 ```text
 The Grand Quest (LeetCode 4,055 Target):
-[████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 76 / 4,055 Solved (1.87%)
+[████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 78 / 4,055 Solved (1.92%)
 
 Streak:       16 Days Active
 Global Rank:  ~2,500,000
 Difficulty Breakdown:
   - Hard:     18 Solved  (Top-Tier Complex DP, Backtracking, Math)
-  - Medium:   43 Solved  (In-Place Arrays, Two Pointers, Intervals, Math)
-  - Easy:     15 Solved  (Core Fundamentals & Fast Lookups)
+  - Medium:   44 Solved  (In-Place Arrays, Two Pointers, Intervals, Math)
+  - Easy:     16 Solved  (Core Fundamentals & Fast Lookups)
 ```
 
 ---
