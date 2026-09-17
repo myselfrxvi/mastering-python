@@ -110,3 +110,9 @@ temp/
 *.dll
 *.dylib
 compile_flags.txt
+
+# ---------------------------------------------------------------------
+# Private Study Roadmaps & Trackers
+# ---------------------------------------------------------------------
+DSA_ZERO_TO_HERO_ROADMAP.md
+**/DSA_ZERO_TO_HERO_ROADMAP.md
