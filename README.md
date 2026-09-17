@@ -8,12 +8,12 @@
 
 ```text
 The Grand Quest (LeetCode 4,055 Target):
-[████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 78 / 4,055 Solved (1.92%)
+[████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 79 / 4,055 Solved (1.95%)
 
 Streak:       16 Days Active
 Global Rank:  ~2,500,000
 Difficulty Breakdown:
-  - Hard:     18 Solved  (Top-Tier Complex DP, Backtracking, Math)
+  - Hard:     19 Solved  (Top-Tier Complex DP, Backtracking, Math)
   - Medium:   44 Solved  (In-Place Arrays, Two Pointers, Intervals, Math)
   - Easy:     16 Solved  (Core Fundamentals & Fast Lookups)
 ```
@@ -73,6 +73,7 @@ Every algorithm is written with **zero boilerplate, clean invariants, and optima
 
 ### Top-Tier Solutions Index (Selected Highlights):
 - **Hard Tier:**
+  - [LC 60: Permutation Sequence](file:///c:/Users/ravin/OneDrive/Desktop/python/leetcode/math_and_bits/60_permutation_sequence.py) (O(N^2) factorial number system / Lehmer code)
   - [LC 2472: Maximum Number of Non-overlapping Palindrome Substrings](file:///c:/Users/ravin/OneDrive/Desktop/python/leetcode/dynamic_programming/2472_maximum_number_of_non_overlapping_palindrome_substrings.py) (O(N*k) greedy minimal-core lemma)
   - [LC 1622: Fancy Sequence](file:///c:/Users/ravin/OneDrive/Desktop/python/leetcode/math_and_bits/1622_fancy_sequence.py) (O(1) amortized affine state machine & Fermat's Little Theorem)
   - [LC 52: N-Queens II](file:///c:/Users/ravin/OneDrive/Desktop/python/leetcode/backtracking/52_n_queens_ii.py) (State-space pruning & diagonal hashing)
