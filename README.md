@@ -8,13 +8,13 @@
 
 ```text
 The Grand Quest (LeetCode 4,055 Target):
-[████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 79 / 4,055 Solved (1.95%)
+[████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 80 / 4,055 Solved (1.97%)
 
 Streak:       16 Days Active
 Global Rank:  ~2,500,000
 Difficulty Breakdown:
   - Hard:     19 Solved  (Top-Tier Complex DP, Backtracking, Math)
-  - Medium:   44 Solved  (In-Place Arrays, Two Pointers, Intervals, Math)
+  - Medium:   45 Solved  (In-Place Arrays, Two Pointers, Intervals, Math)
   - Easy:     16 Solved  (Core Fundamentals & Fast Lookups)
 ```
 
@@ -84,6 +84,7 @@ Every algorithm is written with **zero boilerplate, clean invariants, and optima
   - [LC 25: Reverse Nodes in k-Group](file:///c:/Users/ravin/OneDrive/Desktop/python/leetcode/linked_lists/25_reverse_nodes_in_k_group.py) (O(1) in-place linked list reversal)
   - [LC 04: Median of Two Sorted Arrays](file:///c:/Users/ravin/OneDrive/Desktop/python/leetcode/binary_search/04_median_of_two_sorted_arrays.py) (O(log(min(M, N))) binary partition search)
 - **Medium Tier:**
+  - [LC 61: Rotate List](file:///c:/Users/ravin/OneDrive/Desktop/python/leetcode/linked_lists/61_rotate_list.py) (O(N) ring topology & modular tail seam cut)
   - [LC 1621: Number of Sets of K Non-Overlapping Line Segments](file:///c:/Users/ravin/OneDrive/Desktop/python/leetcode/dynamic_programming/1621_number_of_sets_of_k_non_overlapping_line_segments.py) (Combinatorial coordinate shift bijection)
   - [LC 57: Insert Interval](file:///c:/Users/ravin/OneDrive/Desktop/python/leetcode/arrays/57_insert_interval.py) (3-Phase linear sweep without re-sorting)
   - [LC 56: Merge Intervals](file:///c:/Users/ravin/OneDrive/Desktop/python/leetcode/arrays/56_merge_intervals.py) (Sorting + greedy interval stretch)
