@@ -8,13 +8,13 @@
 
 ```text
 The Grand Quest (LeetCode 4,055 Target):
-[████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 81 / 4,055 Solved (2.00%)
+[████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 83 / 4,055 Solved (2.05%)
 
 Streak:       16 Days Active
 Global Rank:  2,176,283 (Climbing +324k ranks!)
 Difficulty Breakdown:
-  - Hard:     19 Solved  (Top-Tier Complex DP, Backtracking, Math)
-  - Medium:   46 Solved  (In-Place Arrays, Two Pointers, Intervals, Math)
+  - Hard:     20 Solved  (Top-Tier Complex DP, Backtracking, Math)
+  - Medium:   47 Solved  (In-Place Arrays, Two Pointers, Intervals, Math)
   - Easy:     16 Solved  (Core Fundamentals & Fast Lookups)
 ```
 
@@ -73,6 +73,7 @@ Every algorithm is written with **zero boilerplate, clean invariants, and optima
 
 ### Top-Tier Solutions Index (Selected Highlights):
 - **Hard Tier:**
+  - [LC 1520: Maximum Number of Non-Overlapping Substrings](file:///c:/Users/ravin/OneDrive/Desktop/python/leetcode/dynamic_programming/1520_maximum_number_of_non_overlapping_substrings.py) (O(N) character boundary closure & greedy interval scheduling)
   - [LC 60: Permutation Sequence](file:///c:/Users/ravin/OneDrive/Desktop/python/leetcode/math_and_bits/60_permutation_sequence.py) (O(N^2) factorial number system / Lehmer code)
   - [LC 2472: Maximum Number of Non-overlapping Palindrome Substrings](file:///c:/Users/ravin/OneDrive/Desktop/python/leetcode/dynamic_programming/2472_maximum_number_of_non_overlapping_palindrome_substrings.py) (O(N*k) greedy minimal-core lemma)
   - [LC 1622: Fancy Sequence](file:///c:/Users/ravin/OneDrive/Desktop/python/leetcode/math_and_bits/1622_fancy_sequence.py) (O(1) amortized affine state machine & Fermat's Little Theorem)
@@ -84,6 +85,7 @@ Every algorithm is written with **zero boilerplate, clean invariants, and optima
   - [LC 25: Reverse Nodes in k-Group](file:///c:/Users/ravin/OneDrive/Desktop/python/leetcode/linked_lists/25_reverse_nodes_in_k_group.py) (O(1) in-place linked list reversal)
   - [LC 04: Median of Two Sorted Arrays](file:///c:/Users/ravin/OneDrive/Desktop/python/leetcode/binary_search/04_median_of_two_sorted_arrays.py) (O(log(min(M, N))) binary partition search)
 - **Medium Tier:**
+  - [LC 120: Triangle](file:///c:/Users/ravin/OneDrive/Desktop/python/leetcode/dynamic_programming/120_triangle.py) (O(N^2) in-place bottom-up row condensation DP)
   - [LC 1401: Circle and Rectangle Overlapping](file:///c:/Users/ravin/OneDrive/Desktop/python/leetcode/math_and_bits/1401_circle_and_rectangle_overlapping.py) (O(1) independent coordinate clamp & squared Euclidean distance)
   - [LC 61: Rotate List](file:///c:/Users/ravin/OneDrive/Desktop/python/leetcode/linked_lists/61_rotate_list.py) (O(N) ring topology & modular tail seam cut)
   - [LC 1621: Number of Sets of K Non-Overlapping Line Segments](file:///c:/Users/ravin/OneDrive/Desktop/python/leetcode/dynamic_programming/1621_number_of_sets_of_k_non_overlapping_line_segments.py) (Combinatorial coordinate shift bijection)
