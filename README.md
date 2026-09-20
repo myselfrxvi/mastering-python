@@ -8,12 +8,12 @@
 
 ```text
 The Grand Quest (LeetCode 4,055 Target):
-[████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 90 / 4,055 Solved (2.22%)
+[████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 91 / 4,055 Solved (2.24%)
 
 Streak:       16 Days Active
 Global Rank:  2,176,283 (Climbing +324k ranks!)
 Difficulty Breakdown:
-  - Hard:     21 Solved  (Top-Tier Complex DP, Backtracking, Math)
+  - Hard:     22 Solved  (Top-Tier Complex DP, Backtracking, Math, State Machines)
   - Medium:   51 Solved  (In-Place Arrays, Two Pointers, Intervals, Math)
   - Easy:     18 Solved  (Core Fundamentals & Fast Lookups)
 ```
@@ -70,9 +70,11 @@ Every algorithm is written with **zero boilerplate, clean invariants, and optima
 - 📖 **[40-Pattern Master Sheet](file:///c:/Users/ravin/OneDrive/Desktop/python/leetcode/DSA_40_PATTERN_MASTER_SHEET.md)**: Prioritized directory connecting each algorithm to industry patterns.
 - ⏱️ **[Big-O Complexity Roadmap](file:///c:/Users/ravin/OneDrive/Desktop/python/leetcode/BIG_O_COMPLEXITY_ROADMAP.md)**: Master guide to analyzing time and space constraints.
 - 🎯 **[Contest Playbook](file:///c:/Users/ravin/OneDrive/Desktop/python/leetcode/CONTEST_PLAYBOOK.md)**: Rapid pattern identification and constraint decoder.
+- 🏆 **[Contests Arena](file:///c:/Users/ravin/OneDrive/Desktop/python/leetcode/contests/README.md)**: Dedicated archive of timed Weekly and Biweekly contest challenges.
 
 ### Top-Tier Solutions Index (Selected Highlights):
 - **Hard Tier:**
+  - [LC 65: Valid Number](file:///c:/Users/ravin/OneDrive/Desktop/python/leetcode/strings/65_valid_number.py) (O(N) single-pass deterministic finite state validator)
   - [LC 1520: Maximum Number of Non-Overlapping Substrings](file:///c:/Users/ravin/OneDrive/Desktop/python/leetcode/dynamic_programming/1520_maximum_number_of_non_overlapping_substrings.py) (O(N) character boundary closure & greedy interval scheduling)
   - [LC 60: Permutation Sequence](file:///c:/Users/ravin/OneDrive/Desktop/python/leetcode/math_and_bits/60_permutation_sequence.py) (O(N^2) factorial number system / Lehmer code)
   - [LC 2472: Maximum Number of Non-overlapping Palindrome Substrings](file:///c:/Users/ravin/OneDrive/Desktop/python/leetcode/dynamic_programming/2472_maximum_number_of_non_overlapping_palindrome_substrings.py) (O(N*k) greedy minimal-core lemma)
