@@ -8,13 +8,13 @@
 
 ```text
 The Grand Quest (LeetCode 4,055 Target):
-[████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 88 / 4,055 Solved (2.17%)
+[████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 89 / 4,055 Solved (2.19%)
 
 Streak:       16 Days Active
 Global Rank:  2,176,283 (Climbing +324k ranks!)
 Difficulty Breakdown:
   - Hard:     21 Solved  (Top-Tier Complex DP, Backtracking, Math)
-  - Medium:   49 Solved  (In-Place Arrays, Two Pointers, Intervals, Math)
+  - Medium:   50 Solved  (In-Place Arrays, Two Pointers, Intervals, Math)
   - Easy:     18 Solved  (Core Fundamentals & Fast Lookups)
 ```
 
@@ -85,6 +85,7 @@ Every algorithm is written with **zero boilerplate, clean invariants, and optima
   - [LC 25: Reverse Nodes in k-Group](file:///c:/Users/ravin/OneDrive/Desktop/python/leetcode/linked_lists/25_reverse_nodes_in_k_group.py) (O(1) in-place linked list reversal)
   - [LC 04: Median of Two Sorted Arrays](file:///c:/Users/ravin/OneDrive/Desktop/python/leetcode/binary_search/04_median_of_two_sorted_arrays.py) (O(log(min(M, N))) binary partition search)
 - **Medium Tier:**
+  - [LC 62: Unique Paths](file:///c:/Users/ravin/OneDrive/Desktop/python/leetcode/dynamic_programming/62_unique_paths.py) (O(M*N) 1D rolling DP row condensation)
   - [LC 120: Triangle](file:///c:/Users/ravin/OneDrive/Desktop/python/leetcode/dynamic_programming/120_triangle.py) (O(N^2) in-place bottom-up row condensation DP)
   - [LC 1401: Circle and Rectangle Overlapping](file:///c:/Users/ravin/OneDrive/Desktop/python/leetcode/math_and_bits/1401_circle_and_rectangle_overlapping.py) (O(1) independent coordinate clamp & squared Euclidean distance)
   - [LC 61: Rotate List](file:///c:/Users/ravin/OneDrive/Desktop/python/leetcode/linked_lists/61_rotate_list.py) (O(N) ring topology & modular tail seam cut)
