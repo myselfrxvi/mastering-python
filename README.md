@@ -8,13 +8,13 @@
 
 ```text
 The Grand Quest (LeetCode 4,055 Target):
-[████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 93 / 4,055 Solved (2.29%)
+[████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 95 / 4,055 Solved (2.34%)
 
-Streak:       16 Days Active
+Streak:       17 Days Active
 Global Rank:  2,176,283 (Climbing +324k ranks!)
 Difficulty Breakdown:
   - Hard:     22 Solved  (Top-Tier Complex DP, Backtracking, Math, State Machines)
-  - Medium:   51 Solved  (In-Place Arrays, Two Pointers, Intervals, Math)
+  - Medium:   53 Solved  (In-Place Arrays, Two Pointers, Intervals, Math, 1D/2D DP)
   - Easy:     20 Solved  (Core Fundamentals & Fast Lookups)
 ```
 
@@ -30,13 +30,13 @@ Every lesson is an **interactive, runnable lab script** (`python <file>.py`) con
 - [x] [03_conditionals.py](file:///c:/Users/ravin/OneDrive/Desktop/python/python_fundamentals/01_basics/03_conditionals.py): `if`/`elif`/`else`, truthy vs falsy objects, short-circuit defaults, and ternary expressions.
 - [x] [04_loops_and_ranges.py](file:///c:/Users/ravin/OneDrive/Desktop/python/python_fundamentals/01_basics/04_loops_and_ranges.py): `while` loops, `for` loops, `range()`, `enumerate()`, `zip()`, and the `for...else` search pattern.
 
-### Module 02: Data Structures & Pythonic Idioms `[Upcoming]`
-- [ ] `01_lists_and_mutability.py`: Dynamic arrays, in-place methods (`append`, `pop`, `insert`), shallow vs deep copies.
-- [ ] `02_slicing_mastery.py`: The `[start:stop:step]` stride protocol, reversal, and sub-sequence extraction.
-- [ ] `03_tuples_and_unpacking.py`: Immutability, structural packing/unpacking, and multi-variable returns.
-- [ ] `04_dictionaries.py`: Hash maps, collision mechanics, `.get()`, `.setdefault()`, and dictionary views.
-- [ ] `05_sets.py`: Hash sets, O(1) lookup, mathematical set operations (union, intersection, difference).
-- [ ] `06_comprehensions.py`: List, dict, and set comprehensions, filtering, and nested flattening.
+### [Module 02: Data Structures & Pythonic Idioms](file:///c:/Users/ravin/OneDrive/Desktop/python/python_fundamentals/02_data_structures/README.md) `[Completed]`
+- [x] [01_lists_and_mutability.py](file:///c:/Users/ravin/OneDrive/Desktop/python/python_fundamentals/02_data_structures/01_lists_and_mutability.py): Dynamic arrays, in-place methods (`append`, `pop`, `insert`), shallow vs deep copies.
+- [x] [02_slicing_mastery.py](file:///c:/Users/ravin/OneDrive/Desktop/python/python_fundamentals/02_data_structures/02_slicing_mastery.py): The `[start:stop:step]` stride protocol, reversal, and sub-sequence extraction.
+- [x] [03_tuples_and_unpacking.py](file:///c:/Users/ravin/OneDrive/Desktop/python/python_fundamentals/02_data_structures/03_tuples_and_unpacking.py): Immutability, structural packing/unpacking, and multi-variable returns.
+- [x] [04_dictionaries.py](file:///c:/Users/ravin/OneDrive/Desktop/python/python_fundamentals/02_data_structures/04_dictionaries.py): Hash maps, collision mechanics, `.get()`, `.setdefault()`, and dictionary views.
+- [x] [05_sets.py](file:///c:/Users/ravin/OneDrive/Desktop/python/python_fundamentals/02_data_structures/05_sets.py): Hash sets, O(1) lookup, mathematical set operations (union, intersection, difference).
+- [x] [06_comprehensions.py](file:///c:/Users/ravin/OneDrive/Desktop/python/python_fundamentals/02_data_structures/06_comprehensions.py): List, dict, and set comprehensions, filtering, and nested flattening.
 
 ### Module 03: Functions, Scope & Functional Idioms `[Upcoming]`
 - [ ] `01_function_signatures.py`: Positional, keyword-only, default parameters, and type annotations.
@@ -87,6 +87,8 @@ Every algorithm is written with **zero boilerplate, clean invariants, and optima
   - [LC 25: Reverse Nodes in k-Group](file:///c:/Users/ravin/OneDrive/Desktop/python/leetcode/linked_lists/25_reverse_nodes_in_k_group.py) (O(1) in-place linked list reversal)
   - [LC 04: Median of Two Sorted Arrays](file:///c:/Users/ravin/OneDrive/Desktop/python/leetcode/binary_search/04_median_of_two_sorted_arrays.py) (O(log(min(M, N))) binary partition search)
 - **Medium Tier:**
+  - [LC 3524: Find X Value of Array I](file:///c:/Users/ravin/OneDrive/Desktop/python/leetcode/daily/3524_find_x_value_of_array_i.py) (O(N * K) 1D rolling remainder state machine DP)
+  - [LC 64: Minimum Path Sum](file:///c:/Users/ravin/OneDrive/Desktop/python/leetcode/dynamic_programming/64_minimum_path_sum.py) (O(M * N) 1D rolling buffer cost minimization DP)
   - [LC 63: Unique Paths II](file:///c:/Users/ravin/OneDrive/Desktop/python/leetcode/dynamic_programming/63_unique_paths_ii.py) (O(M*N) 1D rolling DP with obstacle zero-out invariant)
   - [LC 62: Unique Paths](file:///c:/Users/ravin/OneDrive/Desktop/python/leetcode/dynamic_programming/62_unique_paths.py) (O(M*N) 1D rolling DP row condensation)
   - [LC 120: Triangle](file:///c:/Users/ravin/OneDrive/Desktop/python/leetcode/dynamic_programming/120_triangle.py) (O(N^2) in-place bottom-up row condensation DP)
