@@ -8,12 +8,12 @@
 
 ```text
 The Grand Quest (LeetCode 4,055 Target):
-[████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 95 / 4,055 Solved (2.34%)
+[████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 96 / 4,055 Solved (2.37%)
 
 Streak:       17 Days Active
-Global Rank:  1,800,000 (Surged +376k ranks!)
+Global Rank:  ~1,800,000 (Surged +376k ranks!)
 Difficulty Breakdown:
-  - Hard:     22 Solved  (Top-Tier Complex DP, Backtracking, Math, State Machines)
+  - Hard:     23 Solved  (Top-Tier Complex DP, Backtracking, Math, State Machines)
   - Medium:   53 Solved  (In-Place Arrays, Two Pointers, Intervals, Math, 1D/2D DP)
   - Easy:     20 Solved  (Core Fundamentals & Fast Lookups)
 ```
@@ -74,6 +74,7 @@ Every algorithm is written with **zero boilerplate, clean invariants, and optima
 
 ### Top-Tier Solutions Index (Selected Highlights):
 - **Hard Tier:**
+  - [LC 68: Text Justification](file:///c:/Users/ravin/OneDrive/Desktop/python/leetcode/strings/68_text_justification.py) (O(N) greedy line packing & left-heavy whitespace balancing)
   - [LC 65: Valid Number](file:///c:/Users/ravin/OneDrive/Desktop/python/leetcode/strings/65_valid_number.py) (O(N) single-pass deterministic finite state validator)
   - [LC 1520: Maximum Number of Non-Overlapping Substrings](file:///c:/Users/ravin/OneDrive/Desktop/python/leetcode/dynamic_programming/1520_maximum_number_of_non_overlapping_substrings.py) (O(N) character boundary closure & greedy interval scheduling)
   - [LC 60: Permutation Sequence](file:///c:/Users/ravin/OneDrive/Desktop/python/leetcode/math_and_bits/60_permutation_sequence.py) (O(N^2) factorial number system / Lehmer code)
