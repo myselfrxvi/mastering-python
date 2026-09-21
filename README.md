@@ -10,8 +10,8 @@
 The Grand Quest (LeetCode 4,059 Target):
 [█████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 100 / 4,059 Solved (2.46%)
 
-Streak:       17 Days Active
-Global Rank:  1,744,118 (Surged +432k ranks into top 1.7M!)
+Streak:       18 Days Active
+Global Rank:  1,744,118 (Rocketed from 5.1M -> 1.7M in 18 days! +3.35M developers surpassed)
 Difficulty Breakdown:
   - Hard:     23 Solved  (Top-Tier Complex DP, Backtracking, Math, State Machines)
   - Medium:   55 Solved  (In-Place Arrays, Two Pointers, Intervals, Math, 1D/2D DP)
