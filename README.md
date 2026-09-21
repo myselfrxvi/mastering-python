@@ -7,14 +7,14 @@
 ## Live Progress Dashboard
 
 ```text
-The Grand Quest (LeetCode 4,055 Target):
-[████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 99 / 4,055 Solved (2.44%)
+The Grand Quest (LeetCode 4,059 Target):
+[█████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 100 / 4,059 Solved (2.46%)
 
 Streak:       17 Days Active
-Global Rank:  ~1,800,000 (Surged +376k ranks!)
+Global Rank:  1,744,118 (Surged +432k ranks into top 1.7M!)
 Difficulty Breakdown:
   - Hard:     23 Solved  (Top-Tier Complex DP, Backtracking, Math, State Machines)
-  - Medium:   54 Solved  (In-Place Arrays, Two Pointers, Intervals, Math, 1D/2D DP)
+  - Medium:   55 Solved  (In-Place Arrays, Two Pointers, Intervals, Math, 1D/2D DP)
   - Easy:     22 Solved  (Core Fundamentals & Fast Lookups)
 ```
 
@@ -88,6 +88,7 @@ Every algorithm is written with **zero boilerplate, clean invariants, and optima
   - [LC 25: Reverse Nodes in k-Group](file:///c:/Users/ravin/OneDrive/Desktop/python/leetcode/linked_lists/25_reverse_nodes_in_k_group.py) (O(1) in-place linked list reversal)
   - [LC 04: Median of Two Sorted Arrays](file:///c:/Users/ravin/OneDrive/Desktop/python/leetcode/binary_search/04_median_of_two_sorted_arrays.py) (O(log(min(M, N))) binary partition search)
 - **Medium Tier:**
+  - [LC 72: Edit Distance](file:///c:/Users/ravin/OneDrive/Desktop/python/leetcode/dynamic_programming/72_edit_distance.py) (O(M*N) classic Levenshtein 2D DP matrix alignment)
   - [LC 3524: Find X Value of Array I](file:///c:/Users/ravin/OneDrive/Desktop/python/leetcode/daily/3524_find_x_value_of_array_i.py) (O(N * K) 1D rolling remainder state machine DP)
   - [LC 64: Minimum Path Sum](file:///c:/Users/ravin/OneDrive/Desktop/python/leetcode/dynamic_programming/64_minimum_path_sum.py) (O(M * N) 1D rolling buffer cost minimization DP)
   - [LC 63: Unique Paths II](file:///c:/Users/ravin/OneDrive/Desktop/python/leetcode/dynamic_programming/63_unique_paths_ii.py) (O(M*N) 1D rolling DP with obstacle zero-out invariant)
