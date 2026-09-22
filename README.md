@@ -8,12 +8,12 @@
 
 ```text
 The Grand Quest (LeetCode 4,059 Target):
-[█████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 100 / 4,059 Solved (2.46%)
+[█████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 101 / 4,059 Solved (2.49%)
 
 Streak:       18 Days Active
 Global Rank:  1,744,118 (Rocketed from 5.1M -> 1.7M in 18 days! +3.35M developers surpassed)
 Difficulty Breakdown:
-  - Hard:     23 Solved  (Top-Tier Complex DP, Backtracking, Math, State Machines)
+  - Hard:     24 Solved  (Top-Tier Complex DP, Segment Trees, Backtracking, Math)
   - Medium:   55 Solved  (In-Place Arrays, Two Pointers, Intervals, Math, 1D/2D DP)
   - Easy:     22 Solved  (Core Fundamentals & Fast Lookups)
 ```
@@ -74,7 +74,8 @@ Every algorithm is written with **zero boilerplate, clean invariants, and optima
 
 ### Top-Tier Solutions Index (Selected Highlights):
 - **Hard Tier:**
-  - [LC 68: Text Justification](file:///c:/Users/ravin/OneDrive/Desktop/python/leetcode/strings/68_text_justification.py) (O(N) greedy line packing & left-heavy whitespace balancing)
+  - [LC 3525: Find X Value of Array II](file:///c:/Users/ravin/OneDrive/Desktop/python/leetcode/daily/3525_find_x_value_of_array_ii.py) (O(k * (N + Q log N)) non-commutative iterative segment tree with modular product states)
+  - [LC 68: Text Justification](file:///c:/Users/ravin/OneDrive/Desktop/python/leetcode/strings/68_text_justification.py) (Greedy line packing and left-heavy whitespace gap distribution)
   - [LC 65: Valid Number](file:///c:/Users/ravin/OneDrive/Desktop/python/leetcode/strings/65_valid_number.py) (O(N) single-pass deterministic finite state validator)
   - [LC 1520: Maximum Number of Non-Overlapping Substrings](file:///c:/Users/ravin/OneDrive/Desktop/python/leetcode/dynamic_programming/1520_maximum_number_of_non_overlapping_substrings.py) (O(N) character boundary closure & greedy interval scheduling)
   - [LC 60: Permutation Sequence](file:///c:/Users/ravin/OneDrive/Desktop/python/leetcode/math_and_bits/60_permutation_sequence.py) (O(N^2) factorial number system / Lehmer code)
