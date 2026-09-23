@@ -8,13 +8,13 @@
 
 ```text
 The Grand Quest (LeetCode 4,059 Target):
-[█████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 101 / 4,059 Solved (2.49%)
+[█████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 102 / 4,059 Solved (2.51%)
 
-Streak:       18 Days Active
+Streak:       19 Days Active
 Global Rank:  1,744,118 (Rocketed from 5.1M -> 1.7M in 18 days! +3.35M developers surpassed)
 Difficulty Breakdown:
   - Hard:     24 Solved  (Top-Tier Complex DP, Segment Trees, Backtracking, Math)
-  - Medium:   55 Solved  (In-Place Arrays, Two Pointers, Intervals, Math, 1D/2D DP)
+  - Medium:   56 Solved  (In-Place Arrays, Two Pointers, Intervals, Math, 1D/2D DP)
   - Easy:     22 Solved  (Core Fundamentals & Fast Lookups)
 ```
 
@@ -89,6 +89,7 @@ Every algorithm is written with **zero boilerplate, clean invariants, and optima
   - [LC 25: Reverse Nodes in k-Group](file:///c:/Users/ravin/OneDrive/Desktop/python/leetcode/linked_lists/25_reverse_nodes_in_k_group.py) (O(1) in-place linked list reversal)
   - [LC 04: Median of Two Sorted Arrays](file:///c:/Users/ravin/OneDrive/Desktop/python/leetcode/binary_search/04_median_of_two_sorted_arrays.py) (O(log(min(M, N))) binary partition search)
 - **Medium Tier:**
+  - [LC 1658: Minimum Operations to Reduce X to Zero](file:///c:/Users/ravin/OneDrive/Desktop/python/leetcode/daily/1658_minimum_operations_to_reduce_x_to_zero.py) (O(N) time, O(1) space inverted sliding window target compliment)
   - [LC 72: Edit Distance](file:///c:/Users/ravin/OneDrive/Desktop/python/leetcode/dynamic_programming/72_edit_distance.py) (O(M*N) classic Levenshtein 2D DP matrix alignment)
   - [LC 3524: Find X Value of Array I](file:///c:/Users/ravin/OneDrive/Desktop/python/leetcode/daily/3524_find_x_value_of_array_i.py) (O(N * K) 1D rolling remainder state machine DP)
   - [LC 64: Minimum Path Sum](file:///c:/Users/ravin/OneDrive/Desktop/python/leetcode/dynamic_programming/64_minimum_path_sum.py) (O(M * N) 1D rolling buffer cost minimization DP)
