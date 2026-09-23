@@ -8,12 +8,12 @@
 
 ```text
 The Grand Quest (LeetCode 4,059 Target):
-[█████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 103 / 4,059 Solved (2.54%)
+[█████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 104 / 4,059 Solved (2.56%)
 
 Streak:       19 Days Active
 Global Rank:  1,744,118 (Rocketed from 5.1M -> 1.7M in 18 days! +3.35M developers surpassed)
 Difficulty Breakdown:
-  - Hard:     25 Solved  (Top-Tier Complex DP, Sliding Window, Segment Trees, Backtracking)
+  - Hard:     26 Solved  (Top-Tier Complex DP, Monotonic Stack, Segment Trees, Backtracking)
   - Medium:   56 Solved  (In-Place Arrays, Two Pointers, Intervals, Math, 1D/2D DP)
   - Easy:     22 Solved  (Core Fundamentals & Fast Lookups)
 ```
@@ -74,6 +74,7 @@ Every algorithm is written with **zero boilerplate, clean invariants, and optima
 
 ### Top-Tier Solutions Index (Selected Highlights):
 - **Hard Tier:**
+  - [LC 84: Largest Rectangle in Histogram](file:///c:/Users/ravin/OneDrive/Desktop/python/leetcode/stack/84_largest_rectangle_in_histogram.py) (O(N) zero-allocation sentinel monotonic stack with branchless width calculation)
   - [LC 76: Minimum Window Substring](file:///c:/Users/ravin/OneDrive/Desktop/python/leetcode/strings/76_minimum_window_substring.py) (O(N) have-vs-need optimal sliding window substring boundary tracker)
   - [LC 3525: Find X Value of Array II](file:///c:/Users/ravin/OneDrive/Desktop/python/leetcode/daily/3525_find_x_value_of_array_ii.py) (O(k * (N + Q log N)) non-commutative iterative segment tree with modular product states)
   - [LC 68: Text Justification](file:///c:/Users/ravin/OneDrive/Desktop/python/leetcode/strings/68_text_justification.py) (Greedy line packing and left-heavy whitespace gap distribution)
