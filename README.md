@@ -8,14 +8,14 @@
 
 ```text
 The Grand Quest (LeetCode 4,060 Target):
-[█████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 107 / 4,060 Solved (2.64%)
+[█████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 108 / 4,060 Solved (2.66%)
 
 Streak:       21 Days Active (23 Total Active Days)
 Global Rank:  1,677,765 (Leaped another +66,353 ranks into top 1.67M!)
 Difficulty Breakdown:
   - Hard:     29 Solved  (Top-Tier Complex DP, 4-State Financial Machines, Partition Trees, Monotonic Stack)
   - Medium:   56 Solved  (In-Place Arrays, Two Pointers, Intervals, Math, 1D/2D DP)
-  - Easy:     22 Solved  (Core Fundamentals & Fast Lookups)
+  - Easy:     23 Solved  (Core Fundamentals & Fast Lookups)
 ```
 
 ---
@@ -114,6 +114,11 @@ Every algorithm is written with **zero boilerplate, clean invariants, and optima
   - [LC 48: Rotate Image](file:///c:/Users/ravin/OneDrive/Desktop/python/leetcode/arrays/48_rotate_image.py) (In-place transpose + horizontal mirror)
   - [LC 45: Jump Game II](file:///c:/Users/ravin/OneDrive/Desktop/python/leetcode/arrays/45_jump_game_ii.py) (Wavefront BFS greedy expansion)
   - [LC 33: Search in Rotated Sorted Array](file:///c:/Users/ravin/OneDrive/Desktop/python/leetcode/binary_search/33_search_in_rotated_sorted_array.py) (O(log N) decision tree)
+- **Easy Tier / Core Fundamentals:**
+  - [LC 3550: Smallest Index With Digit Sum Equal to Index](file:///c:/Users/ravin/OneDrive/Desktop/python/leetcode/daily/3550_smallest_index_with_digit_sum_equal_to_index.py) (O(N * d) pure arithmetic digit stripping without heap string allocation)
+  - [LC 70: Climbing Stairs](file:///c:/Users/ravin/OneDrive/Desktop/python/leetcode/dynamic_programming/70_climbing_stairs.py) (O(1) space Fibonacci state machine)
+  - [LC 69: Sqrt(x)](file:///c:/Users/ravin/OneDrive/Desktop/python/leetcode/binary_search/69_sqrt_x.py) (Integer floor binary search)
+  - [LC 66: Plus One](file:///c:/Users/ravin/OneDrive/Desktop/python/leetcode/arrays/66_plus_one.py) (In-place backward carry ripple)
 
 ---
 
