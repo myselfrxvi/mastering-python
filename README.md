@@ -8,12 +8,12 @@
 
 ```text
 The Grand Quest (LeetCode 4,060 Target):
-[█████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 106 / 4,060 Solved (2.61%)
+[█████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 107 / 4,060 Solved (2.64%)
 
 Streak:       21 Days Active (23 Total Active Days)
 Global Rank:  1,677,765 (Leaped another +66,353 ranks into top 1.67M!)
 Difficulty Breakdown:
-  - Hard:     28 Solved  (Top-Tier Complex DP, Binary Partition Trees, 2D Matrix Reductions, Monotonic Stack)
+  - Hard:     29 Solved  (Top-Tier Complex DP, 4-State Financial Machines, Partition Trees, Monotonic Stack)
   - Medium:   56 Solved  (In-Place Arrays, Two Pointers, Intervals, Math, 1D/2D DP)
   - Easy:     22 Solved  (Core Fundamentals & Fast Lookups)
 ```
@@ -74,6 +74,7 @@ Every algorithm is written with **zero boilerplate, clean invariants, and optima
 
 ### Top-Tier Solutions Index (Selected Highlights):
 - **Hard Tier:**
+  - [LC 123: Best Time to Buy and Sell Stock III](file:///c:/Users/ravin/OneDrive/Desktop/python/leetcode/dynamic_programming/123_best_time_to_buy_and_sell_stock_iii.py) (O(N) single-pass 4-state physical balance machine in O(1) space)
   - [LC 87: Scramble String](file:///c:/Users/ravin/OneDrive/Desktop/python/leetcode/dynamic_programming/87_scramble_string.py) (O(N^4) memoized interval partition decision tree with multiset character pruning)
   - [LC 85: Maximal Rectangle](file:///c:/Users/ravin/OneDrive/Desktop/python/leetcode/stack/85_maximal_rectangle.py) (O(M*N) 2D binary matrix reduction to rolling monotonic stack histograms)
   - [LC 84: Largest Rectangle in Histogram](file:///c:/Users/ravin/OneDrive/Desktop/python/leetcode/stack/84_largest_rectangle_in_histogram.py) (O(N) zero-allocation sentinel monotonic stack with branchless width calculation)
