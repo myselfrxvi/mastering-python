@@ -8,12 +8,12 @@
 
 ```text
 The Grand Quest (LeetCode 4,060 Target):
-[█████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 105 / 4,060 Solved (2.59%)
+[█████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 106 / 4,060 Solved (2.61%)
 
-Streak:       20 Days Active (22 Total Active Days)
+Streak:       21 Days Active (23 Total Active Days)
 Global Rank:  1,677,765 (Leaped another +66,353 ranks into top 1.67M!)
 Difficulty Breakdown:
-  - Hard:     27 Solved  (Top-Tier Complex DP, 2D Matrix Reductions, Monotonic Stack, Segment Trees)
+  - Hard:     28 Solved  (Top-Tier Complex DP, Binary Partition Trees, 2D Matrix Reductions, Monotonic Stack)
   - Medium:   56 Solved  (In-Place Arrays, Two Pointers, Intervals, Math, 1D/2D DP)
   - Easy:     22 Solved  (Core Fundamentals & Fast Lookups)
 ```
@@ -74,6 +74,7 @@ Every algorithm is written with **zero boilerplate, clean invariants, and optima
 
 ### Top-Tier Solutions Index (Selected Highlights):
 - **Hard Tier:**
+  - [LC 87: Scramble String](file:///c:/Users/ravin/OneDrive/Desktop/python/leetcode/dynamic_programming/87_scramble_string.py) (O(N^4) memoized interval partition decision tree with multiset character pruning)
   - [LC 85: Maximal Rectangle](file:///c:/Users/ravin/OneDrive/Desktop/python/leetcode/stack/85_maximal_rectangle.py) (O(M*N) 2D binary matrix reduction to rolling monotonic stack histograms)
   - [LC 84: Largest Rectangle in Histogram](file:///c:/Users/ravin/OneDrive/Desktop/python/leetcode/stack/84_largest_rectangle_in_histogram.py) (O(N) zero-allocation sentinel monotonic stack with branchless width calculation)
   - [LC 76: Minimum Window Substring](file:///c:/Users/ravin/OneDrive/Desktop/python/leetcode/strings/76_minimum_window_substring.py) (O(N) have-vs-need optimal sliding window substring boundary tracker)
