@@ -8,12 +8,12 @@
 
 ```text
 The Grand Quest (LeetCode 4,060 Target):
-[█████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 109 / 4,060 Solved (2.68%)
+[█████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 110 / 4,060 Solved (2.71%)
 
-Streak:       21 Days Active (23 Total Active Days)
+Streak:       22 Days Active (24 Total Active Days)
 Global Rank:  1,677,765 (Leaped another +66,353 ranks into top 1.67M!)
 Difficulty Breakdown:
-  - Hard:     30 Solved  (Milestone Unlocked! Binary Trees, Financial FSMs, Partition DP, Monotonic Stack)
+  - Hard:     31 Solved  (Graph BFS+DFS DAGs, Trees, Financial FSMs, Partition DP, Monotonic Stack)
   - Medium:   56 Solved  (In-Place Arrays, Two Pointers, Intervals, Math, 1D/2D DP)
   - Easy:     23 Solved  (Core Fundamentals & Fast Lookups)
 ```
@@ -74,6 +74,7 @@ Every algorithm is written with **zero boilerplate, clean invariants, and optima
 
 ### Top-Tier Solutions Index (Selected Highlights):
 - **Hard Tier:**
+  - [LC 126: Word Ladder II](file:///c:/Users/ravin/OneDrive/Desktop/python/leetcode/graphs/126_word_ladder_ii.py) (Two-phase level-deferred BFS DAG builder + backtracking DFS path reconstruction)
   - [LC 124: Binary Tree Maximum Path Sum](file:///c:/Users/ravin/OneDrive/Desktop/python/leetcode/trees/124_binary_tree_maximum_path_sum.py) (O(N) post-order apex vs branch dual-state DFS with Kadane clamp)
   - [LC 123: Best Time to Buy and Sell Stock III](file:///c:/Users/ravin/OneDrive/Desktop/python/leetcode/dynamic_programming/123_best_time_to_buy_and_sell_stock_iii.py) (O(N) single-pass 4-state physical balance machine in O(1) space)
   - [LC 87: Scramble String](file:///c:/Users/ravin/OneDrive/Desktop/python/leetcode/dynamic_programming/87_scramble_string.py) (O(N^4) memoized interval partition decision tree with multiset character pruning)
