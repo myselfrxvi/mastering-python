@@ -14,6 +14,5 @@ class Solution:
                 if area > max_a:
                     max_a = area
             append(i)
-            
         heights.pop()
         return max_a
