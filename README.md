@@ -8,12 +8,12 @@
 
 ```text
 The Grand Quest (LeetCode 4,060 Target):
-[█████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 112 / 4,060 Solved (2.76%)
+[█████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 113 / 4,060 Solved (2.78%)
 
 Streak:       22 Days Active (24 Total Active Days)
 Global Rank:  1,677,765 (Leaped another +66,353 ranks into top 1.67M!)
 Difficulty Breakdown:
-  - Hard:     32 Solved  (Graph BFS+DFS DAGs, Trees, Financial FSMs, Partition DP, Center Expansion DP, Monotonic Stack)
+  - Hard:     33 Solved  (Graph BFS+DFS DAGs, Trees, Financial FSMs, Partition DP, Center Expansion DP, Two-Pass Greedy, Monotonic Stack)
   - Medium:   57 Solved  (Bidirectional BFS, In-Place Arrays, Two Pointers, Intervals, Math, 1D/2D DP)
   - Easy:     23 Solved  (Core Fundamentals & Fast Lookups)
 ```
@@ -74,6 +74,7 @@ Every algorithm is written with **zero boilerplate, clean invariants, and optima
 
 ### Top-Tier Solutions Index (Selected Highlights):
 - **Hard Tier:**
+  - [LC 135: Candy](leetcode/arrays/135_candy.py) (O(N) time, O(N) space two-pass greedy with decoupled left/right neighbor invariants)
   - [LC 132: Palindrome Partitioning II](leetcode/dynamic_programming/132_palindrome_partitioning_ii.py) (O(N^2) time, O(N) space 1D dynamic programming with center expansion & sentinel initialization)
   - [LC 126: Word Ladder II](leetcode/graphs/126_word_ladder_ii.py) (Two-phase level-deferred BFS DAG builder + backtracking DFS path reconstruction)
   - [LC 124: Binary Tree Maximum Path Sum](leetcode/trees/124_binary_tree_maximum_path_sum.py) (O(N) post-order apex vs branch dual-state DFS with Kadane clamp)
