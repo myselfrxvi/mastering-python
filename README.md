@@ -70,7 +70,7 @@ Every algorithm is written with **zero boilerplate, clean invariants, and optima
 - 📖 **[40-Pattern Master Sheet](file:///c:/Users/ravin/OneDrive/Desktop/python/leetcode/DSA_40_PATTERN_MASTER_SHEET.md)**: Prioritized directory connecting each algorithm to industry patterns.
 - ⏱️ **[Big-O Complexity Roadmap](file:///c:/Users/ravin/OneDrive/Desktop/python/leetcode/BIG_O_COMPLEXITY_ROADMAP.md)**: Master guide to analyzing time and space constraints.
 - 🎯 **[Contest Playbook](file:///c:/Users/ravin/OneDrive/Desktop/python/leetcode/CONTEST_PLAYBOOK.md)**: Rapid pattern identification and constraint decoder.
-- 🏆 **[Contests Arena](file:///c:/Users/ravin/OneDrive/Desktop/python/leetcode/contests/README.md)**: Dedicated archive of timed Weekly and Biweekly contest challenges.
+- 🏆 **[Contests Arena](leetcode/contests/README.md)**: Dedicated archive of timed Weekly and Biweekly contest challenges (**Biweekly 192 All Kill: Global Rank 123 / 31,902**).
 
 ### Top-Tier Solutions Index (Selected Highlights):
 - **Hard Tier:**
