@@ -1,23 +1,16 @@
 <div align="center">
 
-```text
- ██████╗  █████╗ ██╗   ██╗██╗███╗   ██╗██╗███████╗██╗  ██╗
- ██╔══██╗██╔══██╗██║   ██║██║████╗  ██║██║██╔════╝██║  ██║
- ██████╔╝███████║██║   ██║██║██╔██╗ ██║██║███████╗███████║
- ██╔══██╗██╔══██║╚██╗ ██╔╝██║██║╚██╗██║██║╚════██║██╔══██║
- ██║  ██║██║  ██║ ╚████╔╝ ██║██║ ╚████║██║███████║██║  ██║
- ╚═╝  ╚═╝╚═╝  ╚═╝  ╚═══╝  ╚═╝╚═╝  ╚═══╝╚═╝╚══════╝╚═╝  ╚═╝
-```
+# Hi, I'm Ravinish Prakash 👋
 
-### ⚡ Systems Engineer • Machine Learning • Competitive Algorithmicist ⚡
+### ⚡ Python Systems • Machine Learning • Competitive Algorithms ⚡
 
-*High school software engineer engineering high-throughput AsyncIO pipelines, training custom PyTorch transformer blocks, and conquering competitive data structures.*
+*High school software engineer engineering high-throughput AsyncIO pipelines, training custom PyTorch transformers, and conquering competitive data structures.*
 
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-myselfravi.qd.je-10B981?style=for-the-badge&logo=google-chrome&logoColor=white)](https://myselfravi.qd.je)
 [![GitHub](https://img.shields.io/badge/GITHUB-myselfrxvi-18181B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/myselfrxvi)
-[![LeetCode](https://img.shields.io/badge/LEETCODE-All_Kill_Top_0.38%25-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/myselfrxvi)
+[![LeetCode](https://img.shields.io/badge/LEETCODE-Top_0.38%25_Worldwide-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/myselfrxvi)
 [![Python](https://img.shields.io/badge/PYTHON-3.13_AsyncIO-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Contact](https://img.shields.io/badge/CONTACT-ravinishprakash@outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:ravinishprakash@outlook.com)
 
@@ -27,21 +20,15 @@
 
 <br/>
 
-### 🏆 Competitive Programming & Arena Highlights
+### 🏆 Competitive Arena Highlights
 
-```text
-┌────────────────────────────────────────────────────────────────────────┐
-│  BIWEEKLY CONTEST 192 (DEBUT): ALL-KILL (4/4)                         │
-│  ├─ Global Rank:       123 / 32,599 (Top 0.38% Worldwide)             │
-│  ├─ Raw Finish Time:   16 mins 57 secs                                │
-│  └─ Performance Tier:  Elite High-Speed Invariant Synthesis            │
-├────────────────────────────────────────────────────────────────────────┤
-│  THE GRAND QUEST (4,060 TARGET):                                       │
-│  ├─ Problems Solved:   115+ Solved (34 Hards, 58 Mediums, 23 Easies)  │
-│  ├─ Active Streak:     23+ Days Active                                │
-│  └─ Core Expertise:    Monotonic Stacks, Partition DP, Bitmask FSMs   │
-└────────────────────────────────────────────────────────────────────────┘
-```
+| Milestone | Metric | Details |
+| :--- | :--- | :--- |
+| ⚔️ **Biweekly Contest 192 (Debut)** | **Global Rank 123 / 32,599** | **All-Kill (4/4 Solved)** in 16m 57s raw speed • **Top 0.38% Worldwide** |
+| 🎯 **The Grand Quest** | **115+ Solved** | Target: ~4,060 problems • **34 Hards**, 58 Mediums, 23 Easies |
+| 🔥 **Consistency** | **23+ Days Active** | Continuous daily problem-solving streak |
+| 🧠 **Algorithmic Arsenal** | **State Invariants** | Monotonic Stacks, Remainder Equivalence Classes, Center-Expansion 1D DP |
+
 
 <br/>
 
