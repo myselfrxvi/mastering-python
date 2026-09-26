@@ -8,13 +8,13 @@
 
 ```text
 The Grand Quest (LeetCode 4,060 Target):
-[█████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 114 / 4,060 Solved (2.81%)
+[█████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░] 115 / 4,060 Solved (2.83%)
 
 Streak:       23 Days Active (25 Total Active Days)
 Global Rank:  1,677,765 (Leaped another +66,353 ranks into top 1.67M!)
 Difficulty Breakdown:
   - Hard:     34 Solved  (Memoized Backtracking, Graph BFS+DFS DAGs, Trees, Financial FSMs, Partition DP, Center Expansion DP, Two-Pass Greedy, Monotonic Stack)
-  - Medium:   57 Solved  (Bidirectional BFS, In-Place Arrays, Two Pointers, Intervals, Math, 1D/2D DP)
+  - Medium:   58 Solved  (String Parsing, Bidirectional BFS, In-Place Arrays, Two Pointers, Intervals, Math, 1D/2D DP)
   - Easy:     23 Solved  (Core Fundamentals & Fast Lookups)
 ```
 
@@ -99,6 +99,7 @@ Every algorithm is written with **zero boilerplate, clean invariants, and optima
   - [LC 25: Reverse Nodes in k-Group](leetcode/linked_lists/25_reverse_nodes_in_k_group.py) (O(1) in-place linked list reversal)
   - [LC 04: Median of Two Sorted Arrays](leetcode/binary_search/04_median_of_two_sorted_arrays.py) (O(log(min(M, N))) binary partition search)
 - **Medium Tier:**
+  - [LC 1807: Evaluate the Bracket Pairs of a String](leetcode/daily/1807_evaluate_the_bracket_pairs_of_a_string.py) (O(N + K) single-pass C-speed bracket token split & dict lookup)
   - [LC 127: Word Ladder](leetcode/graphs/127_word_ladder.py) (O(M^2 * N) bidirectional BFS with frontier size balancing)
   - [LC 1658: Minimum Operations to Reduce X to Zero](leetcode/daily/1658_minimum_operations_to_reduce_x_to_zero.py) (O(N) time, O(1) space inverted sliding window target compliment)
   - [LC 72: Edit Distance](file:///c:/Users/ravin/OneDrive/Desktop/python/leetcode/dynamic_programming/72_edit_distance.py) (O(M*N) classic Levenshtein 2D DP matrix alignment)
