@@ -38,11 +38,11 @@ Every lesson is an **interactive, runnable lab script** (`python <file>.py`) con
 - [x] [05_sets.py](file:///c:/Users/ravin/OneDrive/Desktop/python/python_fundamentals/02_data_structures/05_sets.py): Hash sets, O(1) lookup, mathematical set operations (union, intersection, difference).
 - [x] [06_comprehensions.py](file:///c:/Users/ravin/OneDrive/Desktop/python/python_fundamentals/02_data_structures/06_comprehensions.py): List, dict, and set comprehensions, filtering, and nested flattening.
 
-### Module 03: Functions, Scope & Functional Idioms `[Upcoming]`
-- [ ] `01_function_signatures.py`: Positional, keyword-only, default parameters, and type annotations.
-- [ ] `02_args_and_kwargs.py`: Dynamic argument packing and dictionary forwarding.
-- [ ] `03_scope_and_closures.py`: The LEGB rule (Local, Enclosing, Global, Built-in) and `nonlocal`/`global`.
-- [ ] `04_lambdas_and_sorting.py`: Anonymous functions, `map`, `filter`, and custom `key=lambda` sorting.
+### [Module 03: Functions, Scope & Functional Idioms](python_fundamentals/03_functions_and_scope/README.md) `[Completed]`
+- [x] [01_function_signatures.py](python_fundamentals/03_functions_and_scope/01_function_signatures.py): Positional-only (`/`), keyword-only (`*`), type annotations, and mutable default parameter traps.
+- [x] [02_args_and_kwargs.py](python_fundamentals/03_functions_and_scope/02_args_and_kwargs.py): Dynamic argument packing (`*args`, `**kwargs`), call-site unpacking, and transparent forwarding.
+- [x] [03_scope_and_closures.py](python_fundamentals/03_functions_and_scope/03_scope_and_closures.py): The LEGB rule, `global` vs `nonlocal`, closure cell objects (`__closure__`), and late-binding loop traps.
+- [x] [04_lambdas_and_sorting.py](python_fundamentals/03_functions_and_scope/04_lambdas_and_sorting.py): Anonymous lambdas, multi-criteria tuple sorting, `operator` optimizations, and functional pipelines.
 
 ### Module 04: Object-Oriented Programming (OOP) & Clean Architecture `[Upcoming]`
 - [ ] `01_classes_and_instances.py`: Classes, `self`, `__init__`, instance attributes vs class attributes.

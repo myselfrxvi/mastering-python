@@ -31,3 +31,12 @@ if __name__ == "__main__":
     assert sol.evaluate("(test)", [["test", "pass"]]) == "pass"
     
     print("ALL TESTS PASSED! Ready for submission.")
+class Solution:
+    def minMoves(self, source: List[int], target: List[int]) -> int:
+        if source == target:
+            return 0
+        sr, sc = source
+        tr, tc = target
+        if sr == tr or sc == tc or abs(sr - tr) == abs(sc - tc):
+            return 1
+        return 2
