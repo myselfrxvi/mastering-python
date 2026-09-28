@@ -72,6 +72,7 @@ Every algorithm is written with **zero boilerplate, clean invariants, and optima
 - 🎯 **[Contest Playbook](file:///c:/Users/ravin/OneDrive/Desktop/python/leetcode/CONTEST_PLAYBOOK.md)**: Rapid pattern identification and constraint decoder.
 - 🏆 **[Contests Arena](leetcode/contests/README.md)**: Dedicated archive of timed Weekly and Biweekly contest challenges (**Biweekly 192 All Kill: Global Rank 123 / 31,902**).
 - 🥋 **[DSA Practice Arena](dsa_practice/README.md)**: Zero-to-Hero structured pattern drills, memory mechanics, and self-testing labs.
+- ⚔️ **[Codeforces Arena](codeforces/README.md)**: Competitive programming rounds, Div 2/3 speed battles, and zero-boilerplate templates.
 
 ### Top-Tier Solutions Index (Selected Highlights):
 - **Hard Tier:**
