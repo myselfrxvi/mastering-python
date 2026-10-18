@@ -44,11 +44,11 @@ Every lesson is an **interactive, runnable lab script** (`python <file>.py`) con
 - [x] [03_scope_and_closures.py](python_fundamentals/03_functions_and_scope/03_scope_and_closures.py): The LEGB rule, `global` vs `nonlocal`, closure cell objects (`__closure__`), and late-binding loop traps.
 - [x] [04_lambdas_and_sorting.py](python_fundamentals/03_functions_and_scope/04_lambdas_and_sorting.py): Anonymous lambdas, multi-criteria tuple sorting, `operator` optimizations, and functional pipelines.
 
-### Module 04: Object-Oriented Programming (OOP) & Clean Architecture `[Upcoming]`
-- [ ] `01_classes_and_instances.py`: Classes, `self`, `__init__`, instance attributes vs class attributes.
-- [ ] `02_dunder_methods.py`: Operator overloading (`__str__`, `__repr__`, `__len__`, `__getitem__`, `__eq__`).
-- [ ] `03_inheritance_and_mro.py`: `super()`, Method Resolution Order (MRO), and abstract base classes.
-- [ ] `04_encapsulation_properties.py`: Getters, setters, and Pythonic `@property` decorators.
+### [Module 04: Object-Oriented Programming (OOP) & Clean Architecture](python_fundamentals/04_oop_and_clean_architecture/README.md) `[Completed]`
+- [x] [01_classes_and_instances.py](python_fundamentals/04_oop_and_clean_architecture/01_classes_and_instances.py): Classes, `self`, `__init__`, `__new__`, instance attributes vs class attributes, method types, and `__slots__` optimization.
+- [x] [02_dunder_methods.py](python_fundamentals/04_oop_and_clean_architecture/02_dunder_methods.py): Operator overloading (`__str__`, `__repr__`, `__len__`, `__getitem__`, `__eq__`, `__hash__`, `__add__`, `__call__`).
+- [x] [03_inheritance_and_mro.py](python_fundamentals/04_oop_and_clean_architecture/03_inheritance_and_mro.py): `super()`, Method Resolution Order (MRO), Diamond Problem, Abstract Base Classes (ABCs), and composition over inheritance.
+- [x] [04_encapsulation_properties.py](python_fundamentals/04_oop_and_clean_architecture/04_encapsulation_properties.py): Name mangling, `@property` getters/setters, `@cached_property`, descriptors, and Clean Architecture domain aggregates.
 
 ### Module 05: Robust Code, Exceptions & File I/O `[Upcoming]`
 - [ ] `01_exception_handling.py`: `try` / `except` / `else` / `finally`, custom exception hierarchies.

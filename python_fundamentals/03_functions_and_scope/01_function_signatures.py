@@ -5,7 +5,6 @@ Lesson 01: Function Signatures, Boundary Operators (/ and *), and Default Argume
 Run this file with:
     python 01_function_signatures.py
 """
-
 from typing import List, Optional, Tuple
 
 # =====================================================================
